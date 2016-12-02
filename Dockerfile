@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:edge
 MAINTAINER TJ Horlacher <tjhorlacher@me.com>
 
 ARG BUILD_DATE
